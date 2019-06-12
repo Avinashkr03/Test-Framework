@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="137457" started-at="2019-06-08T07:08:42Z" finished-at="2019-06-08T07:11:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="137457" started-at="2019-06-08T07:08:42Z" finished-at="2019-06-08T07:11:00Z">
+      <class name="basicTests.alerts">
+        <test-method status="PASS" signature="automate_htmlAlerts()[pri:0, instance:basicTests.alerts@402bba4f]" name="automate_htmlAlerts" duration-ms="103441" started-at="2019-06-08T07:08:42Z" finished-at="2019-06-08T07:10:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automate_htmlAlerts -->
+        <test-method status="PASS" signature="automate_javascriptAlert()[pri:0, instance:basicTests.alerts@402bba4f]" name="automate_javascriptAlert" duration-ms="33959" started-at="2019-06-08T07:10:26Z" finished-at="2019-06-08T07:11:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automate_javascriptAlert -->
+      </class> <!-- basicTests.alerts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
