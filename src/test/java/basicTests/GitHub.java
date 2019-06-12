@@ -12,5 +12,6 @@ public void repository() {
 	WebDriver driver = new FirefoxDriver();	
 driver.get("https://www.amazon.com/");
 System.out.println("fdj");
+System.out.println("fdj");
 }
 }
